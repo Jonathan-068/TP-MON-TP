@@ -1,0 +1,12 @@
+je compte jusqu'a 10 1.
+je compte jusqu'a 10 2.
+je compte jusqu'a 10 3.
+je compte jusqu'a 10 4.
+je compte jusqu'a 10 5.
+je compte jusqu'a 10 6.
+je compte jusqu'a 10 7.
+je compte jusqu'a 10 8.
+je compte jusqu'a 10 9.
+je compte jusqu'a 10 10.
+je compte jusqu'a 10 11.
+
